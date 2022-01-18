@@ -57,7 +57,8 @@
 			[
 				0,
 				2,
-				3
+				3,
+				4
 			]
 		}
 	],
@@ -96,7 +97,8 @@
 			[
 				0,
 				2,
-				3
+				3,
+				4
 			]
 		},
 		{
@@ -130,6 +132,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "jsoncpp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "word_io.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

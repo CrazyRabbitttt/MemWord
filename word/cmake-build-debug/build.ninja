@@ -79,6 +79,12 @@ build CMakeFiles/word.dir/jsoncpp.cpp.obj: CXX_COMPILER__word_Debug F$:/Mem_Word
   OBJECT_DIR = CMakeFiles\word.dir
   OBJECT_FILE_DIR = CMakeFiles\word.dir
 
+build CMakeFiles/word.dir/word_io.cpp.obj: CXX_COMPILER__word_Debug F$:/Mem_Worder/word/word_io.cpp || cmake_object_order_depends_target_word
+  DEP_FILE = CMakeFiles\word.dir\word_io.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\word.dir
+  OBJECT_FILE_DIR = CMakeFiles\word.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target word
@@ -87,7 +93,7 @@ build CMakeFiles/word.dir/jsoncpp.cpp.obj: CXX_COMPILER__word_Debug F$:/Mem_Word
 #############################################
 # Link the executable word.exe
 
-build word.exe: CXX_EXECUTABLE_LINKER__word_Debug CMakeFiles/word.dir/main.cpp.obj CMakeFiles/word.dir/word.cpp.obj CMakeFiles/word.dir/jsoncpp.cpp.obj
+build word.exe: CXX_EXECUTABLE_LINKER__word_Debug CMakeFiles/word.dir/main.cpp.obj CMakeFiles/word.dir/word.cpp.obj CMakeFiles/word.dir/jsoncpp.cpp.obj CMakeFiles/word.dir/word_io.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\word.dir
