@@ -105,7 +105,8 @@
 			"name" : "Header Files",
 			"sourceIndexes" : 
 			[
-				1
+				1,
+				5
 			]
 		}
 	],
@@ -139,6 +140,11 @@
 			"compileGroupIndex" : 0,
 			"path" : "word_io.cpp",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "database.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
