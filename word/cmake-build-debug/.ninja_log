@@ -1,5 +1,0 @@
-# ninja log v5
-0	502	6642112974776580	CMakeFiles/word.dir/main.cpp.obj	93ad78a72e271635
-2	653	6642113415452960	CMakeFiles/word.dir/word.cpp.obj	6980eba35d17f4c1
-24	2116	6642112991108105	CMakeFiles/word.dir/jsoncpp.cpp.obj	5e0204048b9b25e
-653	1693	6642113421656577	word.exe	dfd786001551094

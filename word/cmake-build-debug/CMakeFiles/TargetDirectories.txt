@@ -1,3 +1,0 @@
-F:/Mem_Worder/word/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-F:/Mem_Worder/word/cmake-build-debug/CMakeFiles/word.dir
-F:/Mem_Worder/word/cmake-build-debug/CMakeFiles/edit_cache.dir
